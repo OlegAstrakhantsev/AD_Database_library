@@ -19,19 +19,25 @@ LibrarySearchPath=..\AD_DB_Libs
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=MCU$
+LastFocusedTable=Analog$
 [Table1]
 SchemaName=
 TableName=Analog$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Footprint Ref0=92|Library Part0=109|Footprint Part0=109|ValueDescription0=436|ValueManufacturer0=122|ValueManufacturerPartNumber0=183|ValueType0=75
 [Table2]
 SchemaName=
 TableName=Interface$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Footprint Ref0=92|Library Part0=109|Footprint Part0=109|ValueDescription0=328|ValueManufacturer0=122|ValueManufacturerPartNumber0=183|ValueType0=93
 [Table3]
 SchemaName=
 TableName=Logical$
@@ -44,15 +50,18 @@ TableName=MCU$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=Library Ref0=Up
+BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=90|Library Ref0=90|Footprint Ref0=92|Library Part0=109|Footprint Part0=95|ValueDescription0=311|ValueManufacturer0=122|ValueManufacturerPartNumber0=183|ValueType0=109
+BrowserOrder_Visible=Part Number0=90|Library Ref0=90|Footprint Ref0=92|Library Part0=109|Footprint Part0=109|ValueDescription0=332|ValueManufacturer0=122|ValueManufacturerPartNumber0=183|ValueType0=109
 [Table5]
 SchemaName=
 TableName=Power$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Footprint Ref0=92|Library Part0=109|Footprint Part0=109|ValueDescription0=398|ValueManufacturer0=122|ValueManufacturerPartNumber0=183|ValueType0=166
 [FieldMap1]
 Options=FieldName=Analog$.Part Number|TableNameOnly=Analog$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

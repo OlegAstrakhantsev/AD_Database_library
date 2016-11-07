@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Develop\AD_DB_L
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -26,9 +26,6 @@ TableName=Capacitor_0603$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=104|Library Ref0=77|Footprint Ref0=92|Library Part0=80|Footprint Part0=95|Value0=52|TKE0=40|ValueDescription0=189|ValueManufacturer0=125|ValueManufacturerPartNumber0=183|ValueType0=130
 [Table2]
 SchemaName=
 TableName=Capacitor_Other$
