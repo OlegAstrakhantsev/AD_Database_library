@@ -1,0 +1,4 @@
+# Игнорирование дирректорий History/; Symbol/History/; FootPrint/History/
+History/*
+Symbol/History/*
+FootPrint/History/*
