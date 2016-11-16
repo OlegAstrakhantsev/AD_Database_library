@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Develop\AD_DB_L
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,25 +19,19 @@ LibrarySearchPath=..\AD_DB_Libs
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=IDC$
+LastFocusedTable=PLS$
 [Table1]
 SchemaName=
 TableName=IDC$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Footprint Ref0=92|Library Part0=103|Footprint Part0=103|ValueDescription0=210|ValueManufacturer0=122|ValueManufacturerPartNumber0=183|ValueType0=75
 [Table2]
 SchemaName=
 TableName=PLD$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Footprint Ref0=92|Library Part0=103|Footprint Part0=103|ValueDescription0=188|ValueManufacturer0=122|ValueManufacturerPartNumber0=183|ValueType0=104
 [Table3]
 SchemaName=
 TableName=PLS$
