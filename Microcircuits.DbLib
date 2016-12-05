@@ -12,10 +12,10 @@ QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel
-LibraryDatabasePath=C:\workspace\AD_Database_library\Xls\Microcircuits.xls
-DatabasePathRelative=0
+LibraryDatabasePath=Xls\Microcircuits.xls
+DatabasePathRelative=1
 TopPanelCollapsed=0
-LibrarySearchPath=..\AD_DB_Libs;..\AD_Database_library
+LibrarySearchPath=..\AD_Database_library
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
@@ -49,7 +49,7 @@ SchemaName=
 TableName=Optical$
 Enabled=True
 UserWhere=0
-UserWhereText=
+UserWhereText=[Part Number] = '{Part Number}'
 [Table6]
 SchemaName=
 TableName=Power$
