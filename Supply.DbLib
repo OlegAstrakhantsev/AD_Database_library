@@ -1,7 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
+<<<<<<< HEAD
 ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\workspace\AD_Database_library\Xls\Supply.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+=======
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Develop\AD_Database_library\Xls\Supply.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+>>>>>>> origin/master
 AddMode=3
 RemoveMode=1
 UpdateMode=2

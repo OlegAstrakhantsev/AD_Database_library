@@ -1,11 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\workspace\AD_Database_library\Xls\Microcircuits.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Develop\AD_Database_library\Xls\Microcircuits.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=..\AD_Database_library
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Analog$
+LastFocusedTable=Optical$
 [Table1]
 SchemaName=
 TableName=Analog$
@@ -50,6 +50,12 @@ TableName=Optical$
 Enabled=True
 UserWhere=0
 UserWhereText=[Part Number] = '{Part Number}'
+<<<<<<< HEAD
+=======
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Footprint Ref0=92|Library Part0=109|Footprint Part0=109|ValueDescription0=813|ValueManufacturer0=122|ValueManufacturerPartNumber0=183|ValueType0=79
+>>>>>>> origin/master
 [Table6]
 SchemaName=
 TableName=Power$

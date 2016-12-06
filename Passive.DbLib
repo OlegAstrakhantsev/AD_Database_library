@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\workspace\AD_Database_library\Xls\Passive.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Develop\AD_Database_library\Xls\Passive.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,7 +19,11 @@ LibrarySearchPath=..\AD_DB_Libs;..\AD_Database_library
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
+<<<<<<< HEAD
 LastFocusedTable=Capacitor_0603$
+=======
+LastFocusedTable=Resistors_1206$
+>>>>>>> origin/master
 [Table1]
 SchemaName=
 TableName=Capacitor_0603$
@@ -50,6 +54,12 @@ TableName=Capasitor_0805$
 Enabled=True
 UserWhere=0
 UserWhereText=
+<<<<<<< HEAD
+=======
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=104|Library Ref0=77|Footprint Ref0=92|Library Part0=80|Footprint Part0=95|Value0=52|TKE0=40|ValueDescription0=192|ValueManufacturer0=125|ValueManufacturerPartNumber0=183|ValueType0=130
+>>>>>>> origin/master
 [Table6]
 SchemaName=
 TableName=Crystals$
@@ -86,6 +96,12 @@ TableName=Resistor_Axial_1W$
 Enabled=True
 UserWhere=0
 UserWhereText=
+<<<<<<< HEAD
+=======
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=119|Library Ref0=77|Footprint Ref0=92|Library Part0=80|Footprint Part0=95|Value0=52|ValueDescription0=153|ValueManufacturer0=122|ValueManufacturerPartNumber0=183|ValueType0=75|F110=41
+>>>>>>> origin/master
 [Table12]
 SchemaName=
 TableName=Resistor_Other$
@@ -98,6 +114,12 @@ TableName=Resistors_1206$
 Enabled=True
 UserWhere=0
 UserWhereText=
+<<<<<<< HEAD
+=======
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=96|Library Ref0=77|Footprint Ref0=92|Library Part0=80|Footprint Part0=95|Value0=52|ValueDescription0=169|ValueManufacturer0=122|ValueManufacturerPartNumber0=183|ValueType0=75
+>>>>>>> origin/master
 [Table14]
 SchemaName=
 TableName=Resistors_2512$
