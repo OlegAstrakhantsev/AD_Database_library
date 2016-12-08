@@ -1,7 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
+<<<<<<< HEAD
 ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\workspace\AD_Database_library\Xls\Connectors.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+=======
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Develop\AD_Database_library\Xls\Connectors.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+>>>>>>> origin/master
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -12,7 +16,11 @@ QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel
+<<<<<<< HEAD
 LibraryDatabasePath=C:\workspace\AD_Database_library\Xls\Connectors.xls
+=======
+LibraryDatabasePath=D:\Develop\AD_Database_library\Xls\Connectors.xls
+>>>>>>> origin/master
 DatabasePathRelative=0
 TopPanelCollapsed=0
 LibrarySearchPath=..\AD_DB_Libs;..\AD_Database_library
